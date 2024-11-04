@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h3 {
+    color: #333;
+  }
+  
+  input {
+    margin: 5px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
